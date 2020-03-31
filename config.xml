@@ -20,6 +20,6 @@
       Techno Ninja
   </author>
     
-  <icon src="icon.png />
+  <icon src="icon.png" />
 
 </widget>
